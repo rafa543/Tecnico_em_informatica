@@ -23,4 +23,3 @@ print('Potenciacao: 2 ** 8 = {}'.format(2 ** 8))
 print('Resto: 2 % 5 = {}'.format(2 % 5))
 print('Sem procedencia: 5 + 2 * 10 = {}'.format(5 + 2 * 10))
 print('Com procedencia:(5 + 2) * 10 = {}'.format((5 + 2) * 10))
-
