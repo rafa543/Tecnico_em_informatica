@@ -14,8 +14,8 @@ import time
 
 
 pessoas = ["Maria", "Clara", "Rafael", "Ines", "Tenorio"]
-# sorteio = random.choice(pessoas)
-# print(sorteio)
+sorteio = random.choice(pessoas)
+print(sorteio)
 
 # random.shuffle(pessoas)
 # print(pessoas)
